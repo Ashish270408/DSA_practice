@@ -29,5 +29,5 @@ int main(){
     {
         printf("%c", str[i]);
     }
-    
+
 }
